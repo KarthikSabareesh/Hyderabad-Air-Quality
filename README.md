@@ -1,8 +1,7 @@
 # Hyderabad-Air-Quality
 
 
-## A short, concise README to aid in detailing the process of achieving the project goal : 
-## To predict air quality in Hyderabad in COVID affected time, from October 2019 to April 2020
+## A short, concise README to aid in detailing the process of achieving the project goal : To predict air quality in Hyderabad in COVID affected time, from October 2019 to April 2020
 
 ## We undergo multiple data and moodel processing steps to try to achieve a satisfactory Air Quality Prediction Model, which include data cleaning, imputation, feature engineering, varation and outlier visualisation, hyperparameter tuning, etc.
 
